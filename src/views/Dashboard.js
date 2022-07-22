@@ -332,7 +332,7 @@ function Dashboard() {
                       <th>Name</th>
                       <th>Country</th>
                       <th>City</th>
-                      <th className="text-right">Salary</th>
+                      <th className="text-right">Sales</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -346,13 +346,13 @@ function Dashboard() {
                       <td>Gela Cajudo</td>
                       <td>Philippines</td>
                       <td>Taguig City</td>
-                      <td className="text-right">$23,789</td>
+                      <td className="text-right">$43,789</td>
                     </tr>
                     <tr>
                       <td>Ernest Vincent Torrejos</td>
                       <td>Philippines</td>
                       <td>Mandaluyong City</td>
-                      <td className="text-right">$56,142</td>
+                      <td className="text-right">$26,142</td>
                     </tr>
                     <tr>
                       <td>Doris Greene</td>

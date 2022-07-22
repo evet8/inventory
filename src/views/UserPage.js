@@ -145,9 +145,8 @@ function User() {
                         <label>About Me</label>
                         <Input
                           cols="80"
-                          defaultValue="Lamborghini Mercy, Your chick she so thirsty, I'm in
-                            that two seat Lambo."
-                          placeholder="Here can be your description"
+                          defaultValue="Founder - CEO"
+                          placeholder="Founder - CEO"
                           rows="4"
                           type="textarea"
                         />
@@ -176,9 +175,8 @@ function User() {
                   <p className="description">michael24</p>
                 </div>
                 <p className="description text-center">
-                  "Lamborghini Mercy <br />
-                  Your chick she so thirsty <br />
-                  I'm in that two seat Lambo"
+                  Founder<br />
+                  CEO <br />
                 </p>
               </CardBody>
               <hr />

@@ -42,7 +42,7 @@ function RegularTables() {
           <Col xs={12}>
             <Card>
               <CardHeader>
-                <CardTitle tag="h4">Simple Table</CardTitle>
+                <CardTitle tag="h4">Employees</CardTitle>
               </CardHeader>
               <CardBody>
                 <Table responsive>

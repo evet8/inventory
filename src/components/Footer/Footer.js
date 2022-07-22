@@ -27,14 +27,7 @@ function Footer(props) {
       <Container fluid={props.fluid ? true : false}>
         <nav>
           <ul>
-            <li>
-              <a
-                href="https://www.creative-tim.com?ref=nudr-footer"
-                target="_blank"
-              >
-                Creative Tim
-              </a>
-            </li>
+
             <li>
               <a
                 href="https://presentation.creative-tim.com?ref=nudr-footer"
@@ -68,7 +61,7 @@ function Footer(props) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Creative Tim
+            Team 2GE
           </a>
           .
         </div>

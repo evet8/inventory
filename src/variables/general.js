@@ -38,32 +38,32 @@ const tasks = [
 // // // table head data and table body data for Tables view
 // #############################
 
-const thead = ["Name", "Country", "City", "Salary"];
+const thead = ["Name", "Country", "City", "Sales"];
 const tbody = [
   {
     className: "table-success",
-    data: ["Dakota Rice", "Niger", "Oud-Turnhout", "$36,738"]
+    data: ["Pedro Penduko", "Philippines", "Pampanga", "$36,738"]
   },
   {
     className: "",
-    data: ["Minerva Hooper", "Curaçao", "Sinaai-Waas", "$23,789"]
+    data: ["Cardo Talisay", "Philippines", "Batangas", "$23,789"]
   },
   {
     className: "table-info",
-    data: ["Sage Rodriguez", "Netherlands", "Baileux", "$56,142"]
+    data: ["Asiong Salonga", "Philippines", "Manila", "$56,142"]
   },
   {
     className: "",
-    data: ["Philip Chaney", "Korea, South", "Overland Park", "$38,735"]
+    data: ["Nardong Putik", "Philippines", "Cavite", "$38,735"]
   },
   {
     className: "table-danger",
-    data: ["Doris Greene", "Malawi", "Feldkirchen in Kärnten", "$63,542"]
+    data: ["Jose Dimagulangan", "Philippines", "Pasay", "$63,542"]
   },
-  { className: "", data: ["Mason Porter", "Chile", "Gloucester", "$78,615"] },
+  { className: "", data: ["Alexanda Trese", "Philippines", "Manila", "$78,615"] },
   {
     className: "table-warning",
-    data: ["Jon Porter", "Portugal", "Gloucester", "$98,615"]
+    data: ["Marie Mar", "Philippines", "Mexico", "$98,615"]
   }
 ];
 
